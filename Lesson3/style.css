@@ -1,0 +1,80 @@
+.table {
+  border-collapse: collapse;
+  margin: 5px 10px;
+  font-size: 15px;
+  min-width: 400px;
+  background-color: #ccffeb;
+}
+.table thead tr {
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+.table th,
+.table td {
+  padding: 12px 10px;
+}
+b {
+  font-size: 20px;
+}
+.table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+body {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+table tbody tr:nth-of-type(1) td:nth-of-type(8) {
+  background-color: rgb(250, 237, 243);
+}
+table tbody tr:nth-of-type(2) td:nth-of-type(8) {
+  background-color: rgb(250, 237, 243);
+}
+table tbody tr:nth-of-type(3) td:nth-of-type(8) {
+  background-color: rgb(250, 237, 243);
+}
+table tbody tr:nth-of-type(4) td:nth-of-type(8) {
+  background-color: rgb(250, 237, 243);
+}
+table tbody tr:nth-of-type(2) td:nth-of-type(2) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(3) td:nth-of-type(2) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(4) td:nth-of-type(2) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(5) td:nth-of-type(2) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(2) td:nth-of-type(4) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(3) td:nth-of-type(4) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(4) td:nth-of-type(4) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(5) td:nth-of-type(4) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(1) td:nth-of-type(6) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(2) td:nth-of-type(6) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(3) td:nth-of-type(6) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(4) td:nth-of-type(6) {
+  background-color: #ffe6cc;
+}
+table tbody tr:nth-of-type(5) td:nth-of-type(6) {
+  background-color: #ffe6cc;
+}
+table tbody tr td:first-of-type {
+  font-weight: bold;
+}
